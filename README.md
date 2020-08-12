@@ -6,7 +6,7 @@
 </th>
 </tr>
 <tr>
-<td colspan="2"><a class="image" href="220px-Kip_Thorne_at_Caltech.jpg"><img src="220px-Kip_Thorne_at_Caltech.jpg" srcset="220px-Kip_Thorne_at_Caltech.jpg" width="220" height="280" data-file-width="898" data-file-height="1142" /></a>
+<td colspan="2"><a class="image" href="220px-Kip_Thorne_at_Caltech.jpg"><img src="220px-Kip_Thorne_at_Caltech.jpg" srcset="220px-Kip_Thorne_at_Caltech.jpg" alt="" width="220" height="280" data-file-width="898" data-file-height="1142" /></a>
 <div>Thorne in August 2007</div>
 </td>
 </tr>
@@ -32,14 +32,14 @@
 <div>
 <div>Linda Jean Peterson</div>
 <div>&nbsp;</div>
-<div>(</div>
-<abbr title="married">m.</abbr>&nbsp;1960;&nbsp;<abbr title="divorced">div.</abbr>&nbsp;1977)</div>
+<div>(<abbr title="married">m.</abbr>&nbsp;1960;&nbsp;<abbr title="divorced">div.</abbr>&nbsp;1977)</div>
+</div>
 <br />
 <div>
 <div>Carolee Joyce Winstein</div>
 <div>&nbsp;</div>
-<div>(</div>
-<abbr title="married">m.</abbr>&nbsp;1984)</div>
+<div>(<abbr title="married">m.</abbr>&nbsp;1984)</div>
+</div>
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@
 </table>
 </br>
 
-<p><strong>Kip Stephen Thorne</strong>&nbsp;(born June&nbsp;1, 1940) is an American&nbsp;<a title="Theoretical physics" href="https://en.wikipedia.org/wiki/Theoretical_physics">theoretical physicist</a>&nbsp;known for his contributions in&nbsp;<a class="mw-redirect" title="Gravitation" href="https://en.wikipedia.org/wiki/Gravitation">gravitational physics</a>&nbsp;and&nbsp;<a title="Astrophysics" href="https://en.wikipedia.org/wiki/Astrophysics">astrophysics</a>. A longtime friend and colleague of&nbsp;<a title="Stephen Hawking" href="https://en.wikipedia.org/wiki/Stephen_Hawking">Stephen Hawking</a>&nbsp;and&nbsp;<a title="Carl Sagan" href="https://en.wikipedia.org/wiki/Carl_Sagan">Carl Sagan</a>, he was the&nbsp;<a title="Richard Feynman" href="https://en.wikipedia.org/wiki/Richard_Feynman">Feynman</a>&nbsp;Professor of Theoretical Physics at the&nbsp;<a title="California Institute of Technology" href="https://en.wikipedia.org/wiki/California_Institute_of_Technology">California Institute of Technology</a>&nbsp;(Caltech) until 2009&nbsp;and is one of the world's leading experts on the astrophysical implications of&nbsp;<a title="Albert Einstein" href="https://en.wikipedia.org/wiki/Albert_Einstein">Einstein's</a>&nbsp;<a title="General relativity" href="https://en.wikipedia.org/wiki/General_relativity">general theory of relativity</a>. He continues to do scientific research and scientific consulting, most notably for the&nbsp;<a title="Christopher Nolan" href="https://en.wikipedia.org/wiki/Christopher_Nolan">Christopher Nolan</a>&nbsp;film&nbsp;<em><a title="Interstellar (film)" href="https://en.wikipedia.org/wiki/Interstellar_(film)">Interstellar</a></em>.&nbsp;Thorne was awarded the 2017&nbsp;<a title="Nobel Prize in Physics" href="https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics">Nobel Prize in Physics</a>&nbsp;along with&nbsp;<a title="Rainer Weiss" href="https://en.wikipedia.org/wiki/Rainer_Weiss">Rainer Weiss</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Barry C. Barish" href="https://en.wikipedia.org/wiki/Barry_C._Barish">Barry C. Barish</a>&nbsp;"for decisive contributions to the&nbsp;<a title="Gravitational-wave observatory" href="https://en.wikipedia.org/wiki/Gravitational-wave_observatory">LIGO detector</a>&nbsp;and the observation of&nbsp;<a title="Gravitational wave" href="https://en.wikipedia.org/wiki/Gravitational_wave">gravitational waves</a>".<sup id="cite_ref-NYT-20171003dk_9-0" class="reference"></sup></p>
+<p><strong>Kip Stephen Thorne</strong>&nbsp;(born June&nbsp;1, 1940) is an American&nbsp;<a title="Theoretical physics" href="https://en.wikipedia.org/wiki/Theoretical_physics">theoretical physicist</a> known for his contributions in <a class="mw-redirect" title="Gravitation" href="https://en.wikipedia.org/wiki/Gravitation">gravitational physics</a> and <a title="Astrophysics" href="https://en.wikipedia.org/wiki/Astrophysics">astrophysics</a>. A longtime friend and colleague of <a title="Stephen Hawking" href="https://en.wikipedia.org/wiki/Stephen_Hawking">Stephen Hawking</a> and <a title="Carl Sagan" href="https://en.wikipedia.org/wiki/Carl_Sagan">Carl Sagan</a>, he was the&nbsp;<a title="Richard Feynman" href="https://en.wikipedia.org/wiki/Richard_Feynman">Feynman</a>&nbsp;Professor of Theoretical Physics at the&nbsp;<a title="California Institute of Technology" href="https://en.wikipedia.org/wiki/California_Institute_of_Technology">California Institute of Technology</a>&nbsp;(Caltech) until 2009&nbsp;and is one of the world's leading experts on the astrophysical implications of&nbsp;<a title="Albert Einstein" href="https://en.wikipedia.org/wiki/Albert_Einstein">Einstein's</a>&nbsp;<a title="General relativity" href="https://en.wikipedia.org/wiki/General_relativity">general theory of relativity</a>. He continues to do scientific research and scientific consulting, most notably for the&nbsp;<a title="Christopher Nolan" href="https://en.wikipedia.org/wiki/Christopher_Nolan">Christopher Nolan</a>&nbsp;film&nbsp;<em><a title="Interstellar (film)" href="https://en.wikipedia.org/wiki/Interstellar_(film)">Interstellar</a></em>.&nbsp;Thorne was awarded the 2017&nbsp;<a title="Nobel Prize in Physics" href="https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics">Nobel Prize in Physics</a>&nbsp;along with&nbsp;<a title="Rainer Weiss" href="https://en.wikipedia.org/wiki/Rainer_Weiss">Rainer Weiss</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Barry C. Barish" href="https://en.wikipedia.org/wiki/Barry_C._Barish">Barry C. Barish</a>&nbsp;"for decisive contributions to the&nbsp;<a title="Gravitational-wave observatory" href="https://en.wikipedia.org/wiki/Gravitational-wave_observatory">LIGO detector</a>&nbsp;and the observation of&nbsp;<a title="Gravitational wave" href="https://en.wikipedia.org/wiki/Gravitational_wave">gravitational waves</a>".<sup id="cite_ref-NYT-20171003dk_9-0" class="reference"></sup></p>
 
 </br>
 
