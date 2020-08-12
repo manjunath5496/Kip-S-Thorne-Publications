@@ -67,5 +67,6 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Kip-S-Thorne-Publications/blob/master/kstp(35).pdf" style="text-decoration:none;">Energetic Quantum Limit in Large-Scale Interferometers</a></li> 
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Kip-S-Thorne-Publications/blob/master/kstp(36).pdf" style="text-decoration:none;">Thermoelastic noise and homogeneous thermal noise in finite sized gravitational-wave test masses</a></li> 
-  
+    <li><a target="_blank" href="https://github.com/manjunath5496/Kip-S-Thorne-Publications/blob/master/kstp(37).pdf" style="text-decoration:none;">Ligo and the Discovery of
+Gravitational Waves, III</a></li>
   </ul>
